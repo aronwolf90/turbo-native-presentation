@@ -1,6 +1,6 @@
 # turbo-native-presentation
 
-## Compile
+## Setup
 
 Run the following commands:
 * `asdf install`
